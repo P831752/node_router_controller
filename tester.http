@@ -1,0 +1,9 @@
+###
+GET http://localhost:6000/api/nwProducts
+
+###
+GET http://localhost:6000/api/nwProducts/withSupplier
+
+###
+GET http://localhost:6000/api/nwProducts/filterby/CategoryID=2
+
